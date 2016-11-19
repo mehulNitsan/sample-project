@@ -1577,7 +1577,7 @@ address p {
     padding: 11px 0;
 }
 .gray .download-content li {
-    border-bottom: 1px solid #6E6E6E;
+    /*border-bottom: 1px solid #6E6E6E;*/
 }
 .blue .download-content li {
     /*border-bottom: 1px solid #2D73B9;*/
