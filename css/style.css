@@ -1580,6 +1580,6 @@ address p {
     border-bottom: 1px solid #6E6E6E;
 }
 .blue .download-content li {
-    border-bottom: 1px solid #2D73B9;
+    /*border-bottom: 1px solid #2D73B9;*/
 }
 /*** downloads ***/
